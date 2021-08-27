@@ -18,9 +18,7 @@ graduate and a certified tester (ISTQB). On this repository I would like to shar
 * [Testrail](https://www.gurock.com/testrail/)-  web-based test case management tool
 * [Google Mobile Friendly](https://search.google.com/test/mobile-friendly) - mobile optimalization testing tool
 * [Apache JMeter](https://jmeter.apache.org/) - performance testing tool
-* GIT
-* HTML
-* CSS
+* 
 # Certificates
 * [ISTQB Certified Tester Foundation Level](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 15991/CTFL/2021
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
@@ -61,5 +59,6 @@ graduate and a certified tester (ISTQB). On this repository I would like to shar
 # My bug reports
 
 # My test cases
+Test cases for Google Calendar (adding event function)
+[Przypadki testowe.txt](https://github.com/PatrykKomendo/Portfolio/files/7068160/Przypadki.testowe.txt) (polish language)
 
-# My HTML website project
