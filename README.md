@@ -4,9 +4,14 @@ My name is Patryk Komendo. I am motivated Junior Software Tester candidate. Over
 months, I was acquiring new knowledge and skills through various types of courses, internet
 research, or books about testing. Thanks to that, I became a Software Development Academy
 graduate and a certified tester (ISTQB). On this repository I would like to share my gained experience from personal studies and researches.
-# Tools
-
 # Technical Skills
+* Software Testing
+* Creating test cases
+* Reporting bugs
+* SQL
+* DevTools
+
+# Tools
 * [Lightshot](https://app.prntscr.com/pl/) - screen capture tool
 * [SDK Platform Tool](https://developer.android.com/studio/releases/platform-tools) - mobile logs acquiring tool
 * [ScreenRec](https://screenrec.com/) - screen record tool
@@ -48,8 +53,10 @@ graduate and a certified tester (ISTQB). On this repository I would like to shar
 * [Cherry-it](https://www.facebook.com/Cherry-it-1876989569282481)
 # Recommended blogs
 * [testerzy.pl](https://testerzy.pl/)
-
+* 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
+
+* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 
 # Webinars
 * Webinar: Tester oprogramowania (SDA)
