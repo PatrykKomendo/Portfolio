@@ -41,8 +41,6 @@ Privately, I am keen on strength sport disciplines. Apart from that, I am a fan 
 # Groups on Facebook
 * [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
 
-* [Gildia testerów](https://www.facebook.com/GildiaTesterow)
-
 * [Cherry-it](https://www.facebook.com/Cherry-it-1876989569282481)
 # Recommended blogs
 * [testerzy.pl](https://testerzy.pl/)
