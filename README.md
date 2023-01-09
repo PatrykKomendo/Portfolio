@@ -12,16 +12,11 @@ Privately, I am keen on strength sport disciplines. Apart from that, I am a fan 
 
 # Tools
 * [Lightshot](https://app.prntscr.com/pl/) - screen capture tool
-* [SDK Platform Tool](https://developer.android.com/studio/releases/platform-tools) - mobile logs acquiring tool
 * [ScreenRec](https://screenrec.com/) - screen record tool
 * [MySQL](https://www.mysql.com/) -  open-source relational database management system
 * [Postman](https://www.postman.com/) - API Development Platform
-* [Selenium IDE](https://www.selenium.dev/selenium-ide/) - open-source record and playback test automation for the web
-* [Handbrake](https://handbrake.fr/) - video transcoder
 * [Jira](https://www.atlassian.com/), [Confluence](https://www.atlassian.com/) - Issue tracking and project management tool for developers
-* [Testrail](https://www.gurock.com/testrail/)-  web-based test case management tool
-* [Google Mobile Friendly](https://search.google.com/test/mobile-friendly) - mobile optimalization testing tool
-* [Apache JMeter](https://jmeter.apache.org/) - performance testing tool
+* [Testlink](https://testlink.org/)-  web-based test case management tool
 
 # Certificates
 * [ISTQB Certified Tester Foundation Level](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 15991/CTFL/2021
@@ -35,7 +30,6 @@ Privately, I am keen on strength sport disciplines. Apart from that, I am a fan 
 
 [Postman- Testowanie REST API](https://www.udemy.com/certificate/UC-a23d1c12-db1c-44b9-aeaa-8274ce6b57fc/)
 
-[Selenium IDE- Podstawy automatyzacji + lokatory WebDriver](https://www.udemy.com/certificate/UC-a4e46045-3fda-4705-9887-4429473d43a5/)
 # Books
 * R. Smilgin- "Zawód Tester".
 
