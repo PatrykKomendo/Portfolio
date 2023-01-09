@@ -12,7 +12,6 @@ Privately, I am keen on strength sport disciplines. Apart from that, I am a fan 
 
 # Tools
 * [Lightshot](https://app.prntscr.com/pl/) - screen capture tool
-* [ScreenRec](https://screenrec.com/) - screen record tool
 * [MySQL](https://www.mysql.com/) -  open-source relational database management system
 * [Postman](https://www.postman.com/) - API Development Platform
 * [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
