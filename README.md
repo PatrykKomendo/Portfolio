@@ -59,6 +59,5 @@ Privately, I am keen on strength sport disciplines. Apart from that, I am a fan 
 # My bug reports
 
 # My test cases
-Test cases for Google Calendar (adding event function)
-[Przypadki testowe.txt](https://github.com/PatrykKomendo/Portfolio/files/7068160/Przypadki.testowe.txt) (polish language)
+
 
