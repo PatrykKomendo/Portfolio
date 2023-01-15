@@ -22,6 +22,7 @@
 * [Trello]()
 * [MySQL](https://www.mysql.com/) -  open-source relational database management system
 * [Postman](https://www.postman.com/) - API Development Platform
+* [Chrome DevTools]()
 
 # Certificates
 * [ISTQB Certified Tester Foundation Level](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 15991/CTFL/2021
