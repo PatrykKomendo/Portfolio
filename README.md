@@ -13,10 +13,15 @@
 # Tools
 * [Lightshot](https://app.prntscr.com/pl/) - screen capture tool
 * [Picpick]()
+* [ShareX]()
+* [Browserstack]()
+* [Sizzy]()
+* [Bird Eats Bug]()
+* [Testlink](https://testlink.org/)-  web-based test case management tool
+* [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
+* [Trello]()
 * [MySQL](https://www.mysql.com/) -  open-source relational database management system
 * [Postman](https://www.postman.com/) - API Development Platform
-* [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
-* [Testlink](https://testlink.org/)-  web-based test case management tool
 
 # Certificates
 * [ISTQB Certified Tester Foundation Level](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 15991/CTFL/2021
@@ -63,6 +68,3 @@
 * Webinar: Tester oprogramowania (SDA)
 
 * Webinar: Postman (SDA)
-
-
-
