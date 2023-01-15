@@ -1,4 +1,5 @@
 # Portfolio
+# Sample documentation
 # Technical Skills
 * Software Testing
 * Creating test cases
@@ -49,8 +50,5 @@
 
 * Webinar: Postman (SDA)
 
-# My bug reports
-
-# My test cases
 
 
