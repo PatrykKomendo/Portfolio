@@ -18,9 +18,9 @@
 * [Testlink](https://testlink.org/)-  Web-based test case management tool
 * [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
 * [Trello]()
-* [MySQL](https://www.mysql.com/) -  open-source relational database management system
+* [MySQL](https://www.mysql.com/) -  Open-source relational database management system
 * [Postman](https://www.postman.com/) - API Development Platform
-* [Chrome DevTools]()
+* [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Web developer tool
 
 # Certificates
 * [ISTQB Certified Tester Foundation Level](https://www.gasq.org/en/certification/check-a-certificate.html) - No. 15991/CTFL/2021
@@ -33,6 +33,8 @@
 [Kurs Tester Oprogramowania Software Development Academy](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
 
 [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-26c6bf1d-0bcf-46f4-93a5-853be2ef2f98/)
+
+[Kurs SQL od podstaw | MySQL]()
 
 [MySQL- tworzenie i zarządzenie bazami danych](https://www.udemy.com/certificate/UC-2448968d-3cf7-4f3c-9faa-214e79897cf4/)
 
@@ -63,7 +65,3 @@
 
 * [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
 
-# Webinars
-* Webinar: Tester oprogramowania (SDA)
-
-* Webinar: Postman (SDA)
