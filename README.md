@@ -11,13 +11,11 @@
 * DevTools basics
 
 # Tools
-* [Lightshot](https://app.prntscr.com/pl/) - screen capture tool
-* [Picpick]()
-* [ShareX]()
-* [Browserstack]()
-* [Sizzy]()
-* [Bird Eats Bug]()
-* [Testlink](https://testlink.org/)-  web-based test case management tool
+* [Lightshot](https://app.prntscr.com/pl/) - Screen capture tool
+* [Picpick](https://picpick.app/pl/) - All-in-one Graphic Design, Best Screen Capture and Recording Software
+* [Browserstack](https://www.browserstack.com/) - Cloud web and mobile testing platform
+* [Sizzy](https://sizzy.co/) - Browser made specifically for responsive development.
+* [Testlink](https://testlink.org/)-  Web-based test case management tool
 * [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
 * [Trello]()
 * [MySQL](https://www.mysql.com/) -  open-source relational database management system
