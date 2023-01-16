@@ -12,7 +12,7 @@
 
 # Tools
 * [Lightshot](https://app.prntscr.com/pl/) - Screen capture tool
-* [Picpick](https://picpick.app/pl/) - All-in-one Graphic Design, Best Screen Capture and Recording Software
+* [Picpick](https://picpick.app/pl/) - All-in-one graphic design, screen capture and recording software
 * [Browserstack](https://www.browserstack.com/) - Cloud web and mobile testing platform
 * [Sizzy](https://sizzy.co/) - Browser made specifically for responsive development.
 * [Testlink](https://testlink.org/)-  Web-based test case management tool
