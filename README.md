@@ -7,10 +7,6 @@
 * [Allegro sandbox - bug reports](https://1drv.ms/x/s!AkR3xDCTDb9egRmiy_kDmgc94k4Y?e=TIMdUD)
 * [Allegro sandbox - final report](https://1drv.ms/w/s!AkR3xDCTDb9egQ2eZijRaGp5T1Cb?e=qbP05B)
 
-**2. Test scenario & test cases example using TestLink:**
-
-**3. Bug report example using Jira:**
-
 # Projects
 
 **[1. DareIT Challenge (ongoing)](https://www.dareit.io/challenges/qa-manual-testing)**
