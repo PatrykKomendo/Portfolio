@@ -16,6 +16,8 @@
 
 **1. DareIT Challenge (ongoing)**
 
+[Link to my project](https://github.com/PatrykKomendo/challenge_portfolio_patryk)
+
 # Technical Skills
 * Software Testing
 * Creating test documentation
