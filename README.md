@@ -17,7 +17,6 @@
 * [Sizzy](https://sizzy.co/) - Browser made specifically for responsive development.
 * [Testlink](https://testlink.org/)-  Web-based test case management tool
 * [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
-* [Trello]()
 * [MySQL](https://www.mysql.com/) -  Open-source relational database management system
 * [Postman](https://www.postman.com/) - API Development Platform
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Web developer tool
