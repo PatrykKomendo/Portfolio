@@ -1,4 +1,3 @@
-# **Portfolio**
 
 # Sample documentation
 
