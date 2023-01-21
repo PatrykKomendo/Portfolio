@@ -2,6 +2,11 @@
 
 # Sample documentation
 
+* [Allegro sandbox - test plan](https://1drv.ms/w/s!AkR3xDCTDb9egQruRdaEijcwg-BU?e=i0IkMi)
+* [Allegro sandbox - test scenarios & test cases](https://1drv.ms/x/s!AkR3xDCTDb9egQaMs81hk1LdVeR2?e=zDGWPV)
+* [Allegro sandbox - bug reports](https://1drv.ms/x/s!AkR3xDCTDb9egRmiy_kDmgc94k4Y?e=TIMdUD)
+* [Allegro sandbox - final report](https://1drv.ms/w/s!AkR3xDCTDb9egQ2eZijRaGp5T1Cb?e=qbP05B)
+
 # Projects
 
 # Technical Skills
