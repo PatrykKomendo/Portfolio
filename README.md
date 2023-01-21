@@ -61,6 +61,3 @@
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
 * [cherry-it.pl](http://cherry-it.pl/)
-
-* [pwicherski.gitbook.io](https://pwicherski.gitbook.io/testowanie-oprogramowania/)
-
