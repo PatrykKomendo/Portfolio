@@ -14,7 +14,7 @@
 
 # Projects
 
-**1. DareIT Challenge (ongoing)**
+**[1. DareIT Challenge (ongoing)](https://www.dareit.io/challenges/qa-manual-testing)**
 
 [Link to my project](https://github.com/PatrykKomendo/challenge_portfolio_patryk)
 
