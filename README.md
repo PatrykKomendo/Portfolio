@@ -2,6 +2,8 @@
 
 # Sample documentation
 
+# Projects
+
 # Technical Skills
 * Software Testing
 * Creating test documentation
