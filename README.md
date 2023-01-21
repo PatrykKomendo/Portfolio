@@ -25,7 +25,7 @@
 * [Lightshot](https://app.prntscr.com/pl/) - Screen capture tool
 * [Picpick](https://picpick.app/pl/) - All-in-one graphic design, screen capture and recording software
 * [Browserstack](https://www.browserstack.com/) - Cloud web and mobile testing platform
-* [Sizzy](https://sizzy.co/) - Browser made specifically for responsive development.
+* [Sizzy](https://sizzy.co/) - Browser made specifically for responsive development
 * [Testlink](https://testlink.org/)-  Web-based test case management tool
 * [Jira](https://www.atlassian.com/) - Issue tracking and project management tool for developers
 * [Trello](https://trello.com/pl) - Issue tracking and project management tool for developers
