@@ -20,6 +20,7 @@
 * SQL basics
 * RestAPI basics
 * DevTools basics
+* GIT basics
 
 # Tools
 * [Lightshot](https://app.prntscr.com/pl/) - Screen capture tool
@@ -41,15 +42,18 @@
 
 # Courses
 
-* [Kurs Tester Oprogramowania Software Development Academy](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
+* [Kurs Tester Oprogramowania Software Development Academy](https://sdacademy.pl/kursy/software-tester/)
 
-* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/certificate/UC-26c6bf1d-0bcf-46f4-93a5-853be2ef2f98/)
+* [Kurs Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
 
-* [MySQL- tworzenie i zarządzenie bazami danych](https://www.udemy.com/certificate/UC-2448968d-3cf7-4f3c-9faa-214e79897cf4/)
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 
-* [Postman- Testowanie REST API](https://www.udemy.com/certificate/UC-a23d1c12-db1c-44b9-aeaa-8274ce6b57fc/)
+* [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
+
+* [Postman- Testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 
 # Books
+
 * R. Smilgin- "Zawód Tester".
 
 * K. Pawłowska & Natalia Pawlak- "Podróż przez świat testowania".
