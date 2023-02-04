@@ -37,6 +37,7 @@
 # Certificates
 * [ISTQB Certified Tester Foundation Level](http://scr.istqb.org/) - No. 15991/CTFL/2021
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
+* [Szkolenie dla QA Certificate](https://drive.google.com/file/d/1XylZpUmk23D5wZ83wPoZQCKNQg5Yl2ca/view?usp=sharing)
 * [SCRUM Certificate](https://app.diplomasafe.com/pl-PL/diploma/dd9f20ec18825a0f08374997ac92ddcb42b461a8e/scrum)
 * [EFSET English Certificate](https://www.efset.org/cert/1F9BsT)
 
