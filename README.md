@@ -7,7 +7,7 @@
 * [Allegro sandbox - bug reports](https://1drv.ms/x/s!AkR3xDCTDb9egRmiy_kDmgc94k4Y?e=TIMdUD)
 * [Allegro sandbox - final report](https://1drv.ms/w/s!AkR3xDCTDb9egQ2eZijRaGp5T1Cb?e=qbP05B)
 
-**2. Documentation for Generic Shop [skleptest.pl](https://skleptest.pl/)
+**2. Documentation for Generic Shop (skleptest.pl)**
 * [Generic Shop - test plan](https://1drv.ms/w/s!AkR3xDCTDb9egSV3huIEt3vDrkxd?e=bGQW0M)
 * [Generic Shop - test scenarios & test cases](https://1drv.ms/x/s!AkR3xDCTDb9egSEVT6yOUid2lLp-?e=eZG3J8)
 * [Generic Shop - bug reports](https://1drv.ms/x/s!AkR3xDCTDb9egSP8uoza-JCtVKz8?e=rwkolv)
