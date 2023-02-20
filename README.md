@@ -17,12 +17,6 @@
 * [Scouts Panel - test cases](https://docs.google.com/spreadsheets/d/1FFQRnM8CLRRXmFwGvOEDtqBdd983yAq7G2YHBoXJEIw/edit#gid=0)
 * [Scouts Panel - bug reports](https://docs.google.com/spreadsheets/d/18z7kQWMvBCEjlhVweE_w6sUEXfwb4yGqCe455i9KW6g/edit#gid=0)
 
-# Projects
-
-**[1. DareIT Challenge (ongoing)](https://www.dareit.io/challenges/qa-manual-testing)**
-
-[Link to my project](https://github.com/PatrykKomendo/challenge_portfolio_patryk)
-
 # Technical Skills
 * Software Testing
 * Creating test documentation
