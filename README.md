@@ -7,12 +7,15 @@
 * [Allegro sandbox - bug reports](https://1drv.ms/x/s!AkR3xDCTDb9egRmiy_kDmgc94k4Y?e=TIMdUD)
 * [Allegro sandbox - final report](https://1drv.ms/w/s!AkR3xDCTDb9egQ2eZijRaGp5T1Cb?e=qbP05B)
 
-**2. Documentation for Generic Shop (skleptest.pl)**
+**2. Documentation for Generic Shop (skleptest.pl):**
 * [Generic Shop - test plan](https://1drv.ms/w/s!AkR3xDCTDb9egSV3huIEt3vDrkxd?e=bGQW0M)
 * [Generic Shop - test scenarios & test cases](https://1drv.ms/x/s!AkR3xDCTDb9egSEVT6yOUid2lLp-?e=eZG3J8)
 * [Generic Shop - bug reports](https://1drv.ms/x/s!AkR3xDCTDb9egSP8uoza-JCtVKz8?e=rwkolv)
 * [Generic Shop - final report](https://1drv.ms/w/s!AkR3xDCTDb9egSfA58BmFwwQXcZU?e=5RriQH)
 
+**3. Documentation for DareIT Challenge:** 
+* [Scouts Panel - test cases](https://docs.google.com/spreadsheets/d/1FFQRnM8CLRRXmFwGvOEDtqBdd983yAq7G2YHBoXJEIw/edit#gid=0)
+* [Scouts Panel - bug reports](https://docs.google.com/spreadsheets/d/18z7kQWMvBCEjlhVweE_w6sUEXfwb4yGqCe455i9KW6g/edit#gid=0)
 
 # Projects
 
@@ -46,7 +49,8 @@
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
 * [Szkolenie dla QA Certificate](https://drive.google.com/file/d/1XylZpUmk23D5wZ83wPoZQCKNQg5Yl2ca/view?usp=sharing)
 * [SCRUM Certificate](https://app.diplomasafe.com/pl-PL/diploma/dd9f20ec18825a0f08374997ac92ddcb42b461a8e/scrum)
-* [EFSET English Certificate](https://www.efset.org/cert/1F9BsT)
+* [DevTools Certificate](https://drive.google.com/file/d/16bmSxIudLdb0S_V1AKn1DAv7khuAs8SN/view)
+* [EFSET English Certificate](https://www.efset.org/cert/pxNoS4)
 
 # Courses
 
@@ -83,3 +87,5 @@
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
 * [cherry-it.pl](http://cherry-it.pl/)
+
+* [szkoleniedlaqa.pl - newsletter](https://szkoleniedlaqa.pl/newsletter/)
