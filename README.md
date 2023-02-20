@@ -44,7 +44,7 @@
 * [Szkolenie dla QA Certificate](https://drive.google.com/file/d/1XylZpUmk23D5wZ83wPoZQCKNQg5Yl2ca/view?usp=sharing)
 * [SCRUM Certificate](https://app.diplomasafe.com/pl-PL/diploma/dd9f20ec18825a0f08374997ac92ddcb42b461a8e/scrum)
 * [DevTools Certificate](https://drive.google.com/file/d/16bmSxIudLdb0S_V1AKn1DAv7khuAs8SN/view)
-* [EFSET English Certificate](https://www.efset.org/cert/pxNoS4)
+* [EFSET English Certificate](https://www.efset.org/cert/pxNoS4) - 78/100 (C2 Proficient)
 
 # Courses
 
