@@ -39,27 +39,27 @@
 
 # 🥇 Certificates
 * [ISTQB Certified Tester Foundation Level](http://scr.istqb.org/) - No. 15991/CTFL/2021
-* 
+
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
-* 
+
 * [Szkolenie dla QA Certificate](https://drive.google.com/file/d/1XylZpUmk23D5wZ83wPoZQCKNQg5Yl2ca/view?usp=sharing)
-* 
+
 * [SCRUM Certificate](https://app.diplomasafe.com/pl-PL/diploma/dd9f20ec18825a0f08374997ac92ddcb42b461a8e/scrum)
-* 
+
 * [DevTools Certificate](https://drive.google.com/file/d/16bmSxIudLdb0S_V1AKn1DAv7khuAs8SN/view)
-* 
+
 * [EFSET English Certificate](https://www.efset.org/cert/pxNoS4) - 78/100 (C2 Proficient)
 
 # 🧑‍🎓 Courses
 
 * [Kurs Tester Oprogramowania Software Development Academy](https://sdacademy.pl/kursy/software-tester/)
-* 
+
 * [Kurs Szkolenie dla QA](https://szkoleniedlaqa.pl/szkolenie/)
-* 
+
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-* 
+
 * [Kurs SQL od podstaw | MySQL](https://www.udemy.com/course/kurs-sql-od-podstaw/)
-* 
+
 * [Postman- Testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 
 # 📖 Books
