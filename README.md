@@ -1,5 +1,5 @@
 
-# Sample documentation
+# Sample documentation 
 
 **1. Documentation for Allegro sandbox:**
 * [Allegro sandbox - test plan](https://1drv.ms/w/s!AkR3xDCTDb9egQruRdaEijcwg-BU?e=i0IkMi)
@@ -26,7 +26,7 @@
 * DevTools basics
 * GIT basics
 
-# Tools
+# 🛠️ Tools 
 * [Lightshot](https://app.prntscr.com/pl/) - Screen capture tool
 * [Picpick](https://picpick.app/pl/) - All-in-one graphic design, screen capture and recording software
 * [Browserstack](https://www.browserstack.com/) - Cloud web and mobile testing platform
@@ -38,7 +38,7 @@
 * [Postman](https://www.postman.com/) - API Development Platform
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Web developer tool
 
-# Certificates
+#  Certificates
 * [ISTQB Certified Tester Foundation Level](http://scr.istqb.org/) - No. 15991/CTFL/2021
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
 * [Szkolenie dla QA Certificate](https://drive.google.com/file/d/1XylZpUmk23D5wZ83wPoZQCKNQg5Yl2ca/view?usp=sharing)
