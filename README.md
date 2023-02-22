@@ -1,5 +1,4 @@
-
-# Sample documentation 
+# ⌨️ Sample documentation 
 
 **1. Documentation for Allegro sandbox:**
 * [Allegro sandbox - test plan](https://1drv.ms/w/s!AkR3xDCTDb9egQruRdaEijcwg-BU?e=i0IkMi)
@@ -17,7 +16,7 @@
 * [Scouts Panel - test cases](https://docs.google.com/spreadsheets/d/1FFQRnM8CLRRXmFwGvOEDtqBdd983yAq7G2YHBoXJEIw/edit#gid=0)
 * [Scouts Panel - bug reports](https://docs.google.com/spreadsheets/d/18z7kQWMvBCEjlhVweE_w6sUEXfwb4yGqCe455i9KW6g/edit#gid=0)
 
-# Technical Skills
+# 👨‍🔬 Technical Skills
 * Software Testing
 * Creating test documentation
 * Reporting bugs
@@ -38,7 +37,7 @@
 * [Postman](https://www.postman.com/) - API Development Platform
 * [Chrome DevTools](https://developer.chrome.com/docs/devtools/) - Web developer tool
 
-#  Certificates
+# 🥇 Certificates
 * [ISTQB Certified Tester Foundation Level](http://scr.istqb.org/) - No. 15991/CTFL/2021
 * [Software Tester Certificate](https://app.diplomasafe.com/pl-PL/diploma/dc50e0078a13ba4b68fe5e41de4598aef368f2b34/tester-oprogramowania)
 * [Szkolenie dla QA Certificate](https://drive.google.com/file/d/1XylZpUmk23D5wZ83wPoZQCKNQg5Yl2ca/view?usp=sharing)
@@ -46,7 +45,7 @@
 * [DevTools Certificate](https://drive.google.com/file/d/16bmSxIudLdb0S_V1AKn1DAv7khuAs8SN/view)
 * [EFSET English Certificate](https://www.efset.org/cert/pxNoS4) - 78/100 (C2 Proficient)
 
-# Courses
+# 🧑‍🎓 Courses
 
 * [Kurs Tester Oprogramowania Software Development Academy](https://sdacademy.pl/kursy/software-tester/)
 
@@ -58,7 +57,7 @@
 
 * [Postman- Testowanie REST API](https://www.udemy.com/course/kurs-postman/)
 
-# Books
+# 📖 Books
 
 * R. Smilgin- "Zawód Tester".
 
@@ -68,14 +67,14 @@
 
 * B. Błaszczyk- "English 4 IT. Praktyczny kurs języka angielskiego dla specjalistów IT i nie tylko" (in progress).
 
-# Groups on Facebook
+# 📘 Groups on Facebook
 * [Testowanie oprogramowania](https://www.facebook.com/groups/141683635854223)
 
 * [Cherry-it: Zostań Testerem](https://www.facebook.com/Cherry-it-1876989569282481)
 
 * [Testowanie oprogramowania - Materiały | Porady](https://www.facebook.com/groups/testowanie)
 
-# Recommended blogs
+# 👍 Recommended blogs
 * [testerzy.pl](https://testerzy.pl/)
 
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
